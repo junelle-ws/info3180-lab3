@@ -1,0 +1,9 @@
+h1{
+  color: black;
+  
+}
+form{
+
+     display: flex;
+     flex-direction: column;
+}
